@@ -1,0 +1,82 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size:10px;
+}
+
+
+
+.img{
+    
+    float: left;
+}
+.img1{
+    margin-right: 9rem;
+    
+    float:right;
+}
+.img2{
+    padding: 5rem 0rem 0rem 18rem;
+
+}
+.in{
+    margin-left: 7rem;
+    font-size: 1rem;
+    height: 4rem;
+    width: 34rem;
+    border-radius: 6px;
+    border: 1px solid gainsboro;
+    
+}
+.in1{
+    padding-top:1rem;
+    
+    
+    
+}
+input[type=number]:focus{
+  outline: 2px solid #03C0C2; 
+  outline-style: auto; 
+}
+input[type=password]:focus{
+  outline: 2px solid #03C0C2; 
+  outline-style: auto; 
+}
+
+.lab{
+    margin-left: 7rem;
+    font-size: 2rem;
+}
+.lab1{
+    margin-top:1.5rem;
+    margin-left: 7rem;
+    font-size: 2rem;
+    
+}
+::-webkit-input-placeholder{
+    font-size: 1.4rem;
+}
+            
+
+#boo1{
+    margin:1rem 0rem 0rem 7rem;
+    width: 34rem;
+    height: 5rem;
+    border: 1px solid #03C0C2;
+    background-color: #03C0C2;
+    font-size:1.5rem;
+}
+.check{
+    margin:3rem 0rem 0rem 7rem;
+    font-size: 1.5rem;
+}
+.p1{
+    float: right;
+    padding-right: 2rem; 
+    color: #03C0C2;
+    font-size:1.5rem;
+
+}
